@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from typing import ByteString, Dict, List, Tuple, TypedDict
+from typing import List, Tuple, TypedDict
 from PIL import Image, ImageDraw, ImageFont
 from tqdm import tqdm
 import re
