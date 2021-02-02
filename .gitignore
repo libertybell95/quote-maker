@@ -1,3 +1,9 @@
 # Bulk/Junk
 images/*
 quotes.txt
+
+# Python venv
+lib/
+include/
+bin/
+pyvenv.cfg
