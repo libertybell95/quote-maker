@@ -36,7 +36,7 @@ class Profanity:
 
 class ImageMaker:
   """
-  Image assembler
+  Image assembler and saver
   """
   def __init__(self, quote: str, fontFile: str="Lato-Regular.ttf", fontSize: float=50, maxLineChars: int=70, resolution: Tuple[int, int]=(1920,1080)) -> None:
     """Image assembler
